@@ -102,3 +102,42 @@ h2 {
 #footer {
     background-color: #F0E7D8;
 }
+
+.section1 {
+    background-color: #D295BF;
+    text-align: center;
+}
+
+.subheading1 {
+    color: #29274C;
+}
+
+.section2 {
+    background-color: #29274C;
+    text-align: center;
+}
+
+.subheading2 {
+    color: #D295BF;
+}
+
+.text2 {
+    color: #F0E7D8;
+}
+
+.buttonLink {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.subheader {
+    background-color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+}
+
+.headingbar {
+    color: #29274C;
+}
