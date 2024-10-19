@@ -1,0 +1,104 @@
+body {
+    background: #29274C
+}
+
+h1 {
+    text-align: center;
+    color: #D295BF;
+    font-size: 48px;
+}
+
+h2 {
+    text-align: center;
+    color: #D295BF;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #F0E7D8;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    display: inline;
+    border-right: 1px solid #FFFFFF;
+    margin: 0px;
+}
+
+li a:hover {
+    background-color: #D295BF;
+}
+
+a {
+    padding: 8px;
+    font-size: 24px;
+    background-color: #E6BCCD; 
+    text-decoration: none;
+    text-align: center;
+}
+
+.active {
+    background-color: #29274C;
+    color: #F0E7D8;
+}
+
+#newsPreview {
+    background-color: #D295BF;
+    text-align: center;
+}
+
+#newsPreview h1, #aboutPreview h1{
+    color: #29274C;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    background-color: #7E52A0;
+    color: white;
+    text-align: center;
+    border: 1 px solid #29274C;
+    margin-bottom: 5px;
+}
+
+button:hover {
+    background-color: #29274C;
+    border: 1px solid #F0E7D8;
+}
+
+div {
+    width: 100%;
+}
+
+#upcomingMeetings {
+    color: white;
+}
+
+#aboutPreview {
+    background-color: #D295BF;
+    text-align: center;
+}
+
+#contactInfo p {
+    color: #F0E7D8;
+}
+
+#contactInfo {
+    text-align: center;
+}
+
+#upcomingMeetings {
+    text-align: center;
+}
+
+h2 {
+    color: #F0E7D8;
+}
+
+#footer {
+    background-color: #F0E7D8;
+}
