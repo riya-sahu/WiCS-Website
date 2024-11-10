@@ -141,3 +141,28 @@ h2 {
 .headingbar {
     color: #29274C;
 }
+
+#msg {
+    height: 300px;
+}
+
+#email {
+    width: 30%;
+}
+
+#subject {
+    width: 50%;
+}
+
+#msg {
+    width: 70%;
+}
+
+#submitBtn {
+    background-color: #7E52A0;
+    color: white;
+}
+
+#submitBtn:hover {
+    background-color: #29274C;
+}
